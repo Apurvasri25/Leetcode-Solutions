@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1550-three-consecutive-odds](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
