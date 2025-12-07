@@ -1,12 +1,12 @@
 class Solution {
     public String reverseWords(String s) {
         String[] words = s.split(" ");
-        StringBuilder result = new StringBuilder();
-        
-        for (String word : words) {
-            result.append(new StringBuilder(word).reverse().toString()).append(" ");
+        String ans = "";
+
+        for (String w : words) {
+            ans += new StringBuilder(w).reverse() + " ";
         }
-        
-        return result.toString().trim(); // trim to remove extra space
+
+        return ans.trim();
     }
 }
