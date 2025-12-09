@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0705-design-hashset) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Binary Search
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Linked List
 |  |
