@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
