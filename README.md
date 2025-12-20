@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -83,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
@@ -178,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
