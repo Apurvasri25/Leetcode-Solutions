@@ -226,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
