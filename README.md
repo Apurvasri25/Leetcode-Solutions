@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
