@@ -258,9 +258,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0401-binary-watch](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Geometry
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
