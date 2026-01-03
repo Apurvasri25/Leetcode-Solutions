@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0705-design-hashset](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0705-design-hashset) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3046-split-the-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3046-split-the-array) |
