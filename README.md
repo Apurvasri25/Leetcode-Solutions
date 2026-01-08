@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0598-range-addition-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0598-range-addition-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
 | [0812-largest-triangle-area](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [1185-day-of-the-week](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1185-day-of-the-week) |
