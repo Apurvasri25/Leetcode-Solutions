@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
