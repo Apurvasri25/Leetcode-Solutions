@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3453-separate-squares-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3453-separate-squares-i) |
 ## String
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3453-separate-squares-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3453-separate-squares-i) |
 ## Stack
 |  |
 | ------- |
