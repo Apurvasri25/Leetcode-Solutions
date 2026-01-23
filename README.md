@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1556-thousand-separator](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1556-thousand-separator) |
 | [2942-find-words-containing-character](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Matrix
 |  |
