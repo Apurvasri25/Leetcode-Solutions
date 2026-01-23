@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## String
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-find-missing-observations](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2028-find-missing-observations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Design
 |  |
 | ------- |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -427,8 +432,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
