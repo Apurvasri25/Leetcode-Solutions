@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1920-build-array-from-permutation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1975-maximum-matrix-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0506-relative-ranks) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2578-split-with-minimum-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Counting
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2578-split-with-minimum-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
