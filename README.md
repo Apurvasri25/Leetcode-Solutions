@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1014-best-sightseeing-pair](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3046-split-the-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3046-split-the-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
