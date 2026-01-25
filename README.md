@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1920-build-array-from-permutation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1975-maximum-matrix-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2028-find-missing-observations](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2028-find-missing-observations) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2578-split-with-minimum-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Counting
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Database
 |  |
