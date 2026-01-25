@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
+| [0804-unique-morse-code-words](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0819-most-common-word) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0824-goat-latin](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0824-goat-latin) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
