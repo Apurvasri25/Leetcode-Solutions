@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0806-number-of-lines-to-write-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0819-most-common-word) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0733-flood-fill](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
