@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0796-rotate-string) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Linked List
