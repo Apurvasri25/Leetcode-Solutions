@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1556-thousand-separator](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1556-thousand-separator) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1598-crawler-log-folder](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
 | [2942-find-words-containing-character](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Matrix
