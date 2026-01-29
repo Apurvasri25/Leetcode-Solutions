@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1075-project-employees-i) |
