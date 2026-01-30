@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1014-best-sightseeing-pair](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1014-best-sightseeing-pair) |
+| [1037-valid-boomerang](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [1037-valid-boomerang](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1185-day-of-the-week](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1185-day-of-the-week) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [1037-valid-boomerang](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Backtracking
