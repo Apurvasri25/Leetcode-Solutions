@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1014-best-sightseeing-pair](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1014-best-sightseeing-pair) |
+| [1046-last-stone-weight](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0506-relative-ranks) |
+| [1046-last-stone-weight](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
