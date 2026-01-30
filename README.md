@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0824-goat-latin) |
 | [1021-remove-outermost-parentheses](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1185-day-of-the-week](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1185-day-of-the-week) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
