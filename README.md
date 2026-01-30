@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3046-split-the-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3046-split-the-array) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1598-crawler-log-folder](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
 | [2942-find-words-containing-character](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Tree
 |  |
@@ -563,9 +566,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
