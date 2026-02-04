@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
