@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0661-image-smoother) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
