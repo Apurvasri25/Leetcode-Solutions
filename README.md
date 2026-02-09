@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
@@ -647,4 +649,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
