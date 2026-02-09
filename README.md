@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0441-arranging-coins) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0401-binary-watch) |
