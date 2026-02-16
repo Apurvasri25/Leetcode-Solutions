@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0441-arranging-coins) |
