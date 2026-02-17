@@ -1,24 +1,42 @@
 class Solution {
-  public List<String> readBinaryWatch(int turnedOn) {
-    List<String> ans = new ArrayList<>();
-    dfs(turnedOn, 0, 0, 0, ans);
-    return ans;
-  }
-
-  private int[] hours = new int[] {1, 2, 4, 8};
-  private int[] minutes = new int[] {1, 2, 4, 8, 16, 32};
-
-  private void dfs(int turnedOn, int s, int h, int m, List<String> ans) {
-    if (turnedOn == 0) {
-      final String time = String.valueOf(h) + ":" + (m < 10 ? "0" : "") + String.valueOf(m);
-      ans.add(time);
-      return;
+    List<String> ans;
+    public List<String> readBinaryWatch(int turnedOn) {
+        ans   = new ArrayList<>();
+        makerPoss(new StringBuilder("0000000000"), turnedOn, 0);
+        return ans;
     }
+    public void makerPoss(StringBuilder bits, int limit, int ind){
+        if(limit == 0){
+            String hr = bits.substring(0, 4);
+            String mn = bits.substring(4);
 
-    for (int i = s; i < hours.length + minutes.length; ++i)
-      if (i < 4 && h + hours[i] < 12)
-        dfs(turnedOn - 1, i + 1, h + hours[i], m, ans);
-      else if (i >= 4 && m + minutes[i - 4] < 60)
-        dfs(turnedOn - 1, i + 1, h, m + minutes[i - 4], ans);
-  }
+            int hour = binaryToDec(hr);
+            int min = binaryToDec(mn);
+            if(hour > 11 || min > 59) return;
+
+            StringBuilder temp = new StringBuilder();
+            temp.append(hour).append(":");
+            if(min < 10) temp.append("0");
+            temp.append(min);
+            ans.add(temp.toString());
+            return;
+        }
+
+        for(int i = ind;i < 10;i++){
+            bits.setCharAt(i, '1');
+            makerPoss(bits, limit-1, i+1);
+            bits.setCharAt(i, '0');
+        }
+    }
+    public int binaryToDec(String s){
+        int len = s.length();
+        int res = 0;
+        for(int i = len-1; i >= 0; i--){
+            if(s.charAt(i) == '1'){
+                res += (int) Math.pow(2, (len-(i+1)));
+            }
+        }
+
+        return res;
+    }
 }
