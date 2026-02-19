@@ -1,25 +1,18 @@
 class Solution {
     public int countBinarySubstrings(String s) {
-        int n = s.length();
-        int[] blocks = new int[n];
-        int idx = 0;
-        
-        int count = 1;
-        for (int i = 1; i < n; i++) {
+        int prev = 0, curr = 1, count = 0;
+
+        for (int i = 1; i < s.length(); i++) {
             if (s.charAt(i) == s.charAt(i - 1)) {
-                count++;
+                curr++;
             } else {
-                blocks[idx++] = count;
-                count = 1;
+                count += Math.min(prev, curr);
+                prev = curr;
+                curr = 1;
             }
         }
-        blocks[idx++] = count;
-        
-        int res = 0;
-        for (int i = 0; i < idx - 1; i++) {
-            res += Math.min(blocks[i], blocks[i + 1]);
-        }
-        
-        return res;
+
+        count += Math.min(prev, curr);
+        return count;
     }
 }
