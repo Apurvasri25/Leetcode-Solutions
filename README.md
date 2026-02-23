@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1629-slowest-key](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1629-slowest-key) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2937-make-three-strings-equal](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
