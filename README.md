@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2574-left-and-right-sum-differences](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2765-longest-alternating-subarray](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2765-longest-alternating-subarray) |
 | [2942-find-words-containing-character](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2937-make-three-strings-equal](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
