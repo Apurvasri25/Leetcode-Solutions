@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0506-relative-ranks) |
+| [0566-reshape-the-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [1103-distribute-candies-to-people](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1920-build-array-from-permutation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
