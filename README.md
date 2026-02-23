@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1122-relative-sort-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -778,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 ## Rolling Hash
 |  |
