@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1390-four-divisors](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1925-count-square-sum-triples](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2028-find-missing-observations](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2028-find-missing-observations) |
 | [2578-split-with-minimum-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1534-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2765-longest-alternating-subarray](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2765-longest-alternating-subarray) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
