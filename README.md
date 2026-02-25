@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2574-left-and-right-sum-differences](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2706-buy-two-chocolates](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2717-semi-ordered-permutation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2717-semi-ordered-permutation) |
 | [2765-longest-alternating-subarray](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2765-longest-alternating-subarray) |
 | [2942-find-words-containing-character](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2578-split-with-minimum-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
+| [2706-buy-two-chocolates](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2578-split-with-minimum-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2706-buy-two-chocolates](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 ## Binary Search Tree
 |  |
 | ------- |
