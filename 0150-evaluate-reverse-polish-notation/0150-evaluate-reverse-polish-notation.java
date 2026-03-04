@@ -4,20 +4,30 @@ class Solution {
     public int evalRPN(String[] tokens) {
         Stack<Integer> stck = new Stack<>();
 
-        for (String s : tokens) {
-            if ("+-*/".contains(s) && s.length() == 1) {
+        for (String ch : tokens) {
+            // Check if the current token 'ch' is an operator
+            if ("+-*/".contains(ch) && ch.length() == 1) {
+                // Pop operands: n2 is the top, n1 is the one below it
                 int n2 = stck.pop();
                 int n1 = stck.pop();
-                switch (s) {
-                    case "+": stck.push(n1 + n2); break;
-                    case "-": stck.push(n1 - n2); break;
-                    case "*": stck.push(n1 * n2); break;
-                    case "/": stck.push(n1 / n2); break;
+                
+                // Using if-else logic with ch.equals()
+                if (ch.equals("+")) {
+                    stck.push(n1 + n2);
+                } else if (ch.equals("-")) {
+                    stck.push(n1 - n2);
+                } else if (ch.equals("*")) {
+                    stck.push(n1 * n2);
+                } else if (ch.equals("/")) {
+                    stck.push(n1 / n2);
                 }
             } else {
-                stck.push(Integer.parseInt(s));
+                // If it's a number, parse and push to stck
+                stck.push(Integer.parseInt(ch));
             }
         }
+        
+        // The last remaining value is the result
         return stck.pop();
     }
 }
