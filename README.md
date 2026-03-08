@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1920-build-array-from-permutation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1975-maximum-matrix-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2028-find-missing-observations](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2028-find-missing-observations) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2716-minimize-string-length](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1980-find-unique-binary-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Interactive
 |  |
 | ------- |
