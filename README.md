@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3453-separate-squares-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Stack
 |  |
 | ------- |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -859,4 +862,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
