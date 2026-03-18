@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3861-minimum-capacity-box](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3861-minimum-capacity-box) |
+| [3866-first-unique-even-element](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3866-first-unique-even-element](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3046-split-the-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3046-split-the-array) |
 | [3713-longest-balanced-substring-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3866-first-unique-even-element](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
 | ------- |
