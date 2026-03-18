@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3248-snake-in-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2937-make-three-strings-equal](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3248-snake-in-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3713-longest-balanced-substring-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3856-trim-trailing-vowels](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3856-trim-trailing-vowels) |
 ## Matrix
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2717-semi-ordered-permutation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2717-semi-ordered-permutation) |
 | [2810-faulty-keyboard](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2810-faulty-keyboard) |
+| [3248-snake-in-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3379-transformed-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
