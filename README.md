@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
