@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3238-find-the-number-of-winning-players](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3238-find-the-number-of-winning-players) |
 | [3248-snake-in-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3046-split-the-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3238-find-the-number-of-winning-players](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3238-find-the-number-of-winning-players) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3046-split-the-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3046-split-the-array) |
+| [3238-find-the-number-of-winning-players](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3238-find-the-number-of-winning-players) |
 | [3713-longest-balanced-substring-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3866-first-unique-even-element](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
