@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3833-count-dominant-indices](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3833-count-dominant-indices) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3833-count-dominant-indices](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3833-count-dominant-indices) |
 ## Concurrency
 |  |
 | ------- |
