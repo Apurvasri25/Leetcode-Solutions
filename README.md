@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1629-slowest-key](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1629-slowest-key) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1646-get-maximum-in-generated-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1672-richest-customer-wealth](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [1103-distribute-candies-to-people](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1646-get-maximum-in-generated-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1920-build-array-from-permutation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2028-find-missing-observations](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2028-find-missing-observations) |
