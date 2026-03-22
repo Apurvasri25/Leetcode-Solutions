@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1920-build-array-from-permutation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1975-maximum-matrix-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2923-find-champion-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2923-find-champion-i) |
