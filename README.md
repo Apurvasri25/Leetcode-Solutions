@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
