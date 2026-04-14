@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2463-minimum-total-distance-traveled](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2574-left-and-right-sum-differences](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2717-semi-ordered-permutation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2717-semi-ordered-permutation) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2463-minimum-total-distance-traveled](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2578-split-with-minimum-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2751-robot-collisions](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2751-robot-collisions) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [2463-minimum-total-distance-traveled](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3640-trionic-array-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
