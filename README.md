@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2463-minimum-total-distance-traveled](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2717-semi-ordered-permutation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2717-semi-ordered-permutation) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2716-minimize-string-length](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2810-faulty-keyboard) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
