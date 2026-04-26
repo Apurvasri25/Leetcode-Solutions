@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1550-three-consecutive-odds) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1598-crawler-log-folder](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## String Matching
 |  |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -1011,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
