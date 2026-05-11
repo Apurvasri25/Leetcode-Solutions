@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0849-maximize-distance-to-closest-person](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0896-monotonic-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1103-distribute-candies-to-people](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
