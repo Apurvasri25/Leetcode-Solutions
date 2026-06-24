@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0506-relative-ranks) |
+| [0517-super-washing-machines](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0575-distribute-candies) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0517-super-washing-machines](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
