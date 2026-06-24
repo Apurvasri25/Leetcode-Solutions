@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
