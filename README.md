@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -1049,4 +1051,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
