@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0598-range-addition-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1014-best-sightseeing-pair](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1014-best-sightseeing-pair) |
@@ -968,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1030,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 ## Queue
 |  |
 | ------- |
