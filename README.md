@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/0148-sort-list) |
