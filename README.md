@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2615-sum-of-distances](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2463-minimum-total-distance-traveled](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2578-split-with-minimum-sum](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
