@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
+| [3904-smallest-stable-index-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Apurvasri25/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Quickselect
 |  |
 | ------- |
