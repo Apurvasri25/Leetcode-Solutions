@@ -1,34 +1,43 @@
-import java.util.Stack;
-
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
-        for (char c : s.toCharArray())
-         {
-            if (c == '(' || c == '[' || c == '{') {
-                stack.push(c);
-            } else {
-                if (stack.isEmpty()) return false;
 
-                char top = stack.pop();
-                if ((c == ')' && top != '(') ||
-                    (c == ']' && top != '[') ||
-                    (c == '}' && top != '{')) {
+        int n = s.length();
+
+        if (n % 2 != 0) {
+            return false;
+        }
+
+        char[] stack = new char[n];
+        int j = 0;
+
+        for (int i = 0; i < n; i++) {
+
+            char c = s.charAt(i);
+
+            if (c == '(' || c == '[' || c == '{') {
+                stack[j++] = c;
+            }
+            else {
+                if (j == 0) {
+                    return false;
+                }
+
+                j--;
+
+                if (c == ')' && stack[j] != '(') {
+                    return false;
+                }
+
+                if (c == ']' && stack[j] != '[') {
+                    return false;
+                }
+
+                if (c == '}' && stack[j] != '{') {
                     return false;
                 }
             }
         }
 
-        return stack.isEmpty();
-    }
-
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-
-        System.out.println(sol.isValid("()"));        // true
-        System.out.println(sol.isValid("()[]{}"));    // true
-        System.out.println(sol.isValid("(]"));        // false
-        System.out.println(sol.isValid("([])"));      // true
-        System.out.println(sol.isValid("([)]"));      // false
+        return j == 0;
     }
 }
